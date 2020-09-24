@@ -1,7 +1,7 @@
 body {font-family: Arial, Helvetica, sans-serif;
     line-height: 1.2;
     font-size: 13px;
-    -webkit-font-smoothing: antialiased;
+    
     display: block;
    
 }
@@ -188,3 +188,37 @@ li a {
     background-color: #ddd;
     color: black;
   }
+
+  
+   /**************************** sixth- bar *******************************************************/
+
+a{
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+    transition: opacity .2s;
+    padding-bottom: 5px;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+} 
+
+.gotham-bold {
+    font-family: GothamBold, Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight: 400;
+}
+#sixth-bar{
+    margin: 0 0 10px;
+    padding-bottom: 20px;
+    text-align: center;
+   
+   
+}
